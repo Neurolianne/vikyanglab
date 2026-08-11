@@ -18,6 +18,7 @@ Hello there! Welcome to homepage of Yang Lab
      Moksada Regmi (Ruolong Lei), joined 2023; <br>
      Ying Xiong, joined 2024; <br>
      Junyi Liu, joined 2025; <br>
+     Jiechen Tan, joined 2026; <br>
      (more contributors to be added...
 
 
