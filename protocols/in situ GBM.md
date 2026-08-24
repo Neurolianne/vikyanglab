@@ -12,7 +12,8 @@
 
   4) 碘伏消毒小鼠头皮，剪开小鼠头皮，充分露出颅骨。3%过氧化氢溶解颅骨外组织至bregma点和lambda点清晰可见；dPBS棉签擦拭颅骨表面，避免过氧化氢中毒
   5) 调平衡（决速步骤，认真！）从bregma点出发，左右移动探针各1.5mm，下移探针至脑表面，两侧z轴读数相差小于0.02mm；水平调平后，同理进行前后调平，至bregma点和lambda点脑表面z轴读数相差小于0.02mm
-  6) 从bregma点出发，定位纹状体，marker标记开颅位点
+  6) 从bregma点出发，定位纹状体，marker标记开颅位点 <br>
+     确定开颅位点：小鼠脑立体定位注射图谱—references/the mouse brain in stereotaxic coordinates.pdf <br>
   7) 颅钻开颅
 
 <br>
