@@ -11,15 +11,15 @@ Hello there! Welcome to homepage of Yang Lab
 -To contact: 
   1) PI:<br>
      Dr. Chenlong Yang, vik.yang@pku.edu.cn
-  2) Website builder:<br>
-     Yian Lyu, lianne@hsc.pku.edu.cn
-  3) Contributors (our family members~):<br>
+  2) Contributors (our family members~):<br>
      Shikun Liu, joined 2023; <br>
      Moksada Regmi (Ruolong Lei), joined 2023; <br>
      Ying Xiong, joined 2024; <br>
      Junyi Liu, joined 2025; <br>
      Jiechen Tan, joined 2026; <br>
      (more contributors to be added...
+  3) Website builder:<br>
+     Yian Lyu, lianne@hsc.pku.edu.cn
 
 
 We are so happy to have you in our family
